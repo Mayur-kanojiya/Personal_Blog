@@ -86,3 +86,28 @@ body{
 	right: 394px;
 	top: 53px;
 }
+@media(min-width: 320px){
+	.top.middle.bottom {
+		width:320px;
+	}
+}
+@media(min-width: 481px){
+	.top.middle.bottom {
+		width:481px;
+	}
+}
+@media(min-width: 641px){
+	.top.middle.bottom {
+		width:641px;
+	}
+}
+@media(min-width: 961px){
+	.top.middle.bottom {
+		width:961px;
+	}
+}
+@media(min-width: 1000px){
+	.top.middle.bottom {
+		width:1000px;
+	}
+}
