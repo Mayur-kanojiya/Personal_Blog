@@ -64,25 +64,25 @@ body{
 }
 .gmail{
 	width: 30px; 
-	position: absolute;
-	left: 530px;
-	top: 55px;
+	position: relative;
+	right: 28px;
+	top: 2px;
 }
 .facebook{
 	width: 30px; 
-	position: absolute;
-	left: 530px;
-	top: 95px;
+	position: relative;
+	right: 270px;
+	top: 53px;
 }
 .linkedin{
 	width: 30px; 
-	position: absolute;
-	left: 530px;
-	top: 135px;
+	position: relative;
+	right: 278px;
+	top: 53px;
 }
 .instagram{
 	width: 30px; 
-	position: absolute;
-	left: 530px;
-	top: 175px;
+	position: relative;
+	right: 394px;
+	top: 53px;
 }
